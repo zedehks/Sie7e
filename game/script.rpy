@@ -1,4 +1,15 @@
-﻿image bg phonescene = "phonescene.jpg"
+﻿#Sie7e
+
+#Miembros del grupo:
+
+#Waldo Navas 21441158
+#Roberto Hernandez 21441008
+#Osman Oliva 21441050
+
+
+
+
+image bg phonescene = "phonescene.jpg"
 image bg nortonroom = "nortonroom.jpg"
 image bg battle = "battle.jpg"
 image bg white = "white.jpg"
