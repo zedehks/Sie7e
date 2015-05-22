@@ -235,8 +235,8 @@ label start:
    with dissolve
    #with dissolve
    "Uno siempre mira en las películas y videojuegos sitios como estos. Dado, usualmente son ubicaciones industriales abandonadas, pero esta sigue respirando y viviendo, como lo demuestran todas las botellas de cola en el piso." 
-
-   "…y ese condón aparentemente usado pegado a la pared. Lindo." 
+   "…"
+   "Ojalá eso sea un chicle pegado a la pared." 
    show beatriz worrytalk
    b"“¿Dónde se supone que esta?”"
    show beatriz preocupada
